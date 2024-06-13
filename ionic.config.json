@@ -1,0 +1,8 @@
+{
+  "name": "Restaurant Menu ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "50c00d30"
+}
